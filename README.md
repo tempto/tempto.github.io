@@ -1,7 +1,9 @@
-## Tempto Organization
+## Tempto
 
 tempto, *from latin*: try, test, attempt, tempt, essay, attack
 
-## Porjects
+From Porto, Portugal
+
+## Projects
 
 [WVAT](https://github.com/tempto/wvat): Web Vulnerability Assessment Tool 
